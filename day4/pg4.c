@@ -10,3 +10,5 @@ int lastdigiti-absolutevalue%10;
 int lastdigit2-absolutevalue2%10;
 int sum-lastdigit1+lastdigit2;
 return sum
+  }
+
